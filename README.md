@@ -2,8 +2,10 @@
 
 ## Introduction
 
-Voice enabled news reader app built using react with voice assistance by ALAN AI.
+_Voice enabled news reader app built using react with voice assistance by ALAN AI._
+
+![Alan Ai][/home/siddiq/Syncthing/Alan_ai.png
 
 Alan AI is a revolutionary speech recognition software that allows you to add voice capabilities to your applications. It allows you to control absolutely everything in the app using your voice. Another huge benefit is that it's extremely easy to integrate it. Setup:
 
-*run npm start to start development server
+* run 'npm start' to start development server

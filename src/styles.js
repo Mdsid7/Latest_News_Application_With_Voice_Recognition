@@ -51,7 +51,7 @@ export default makeStyles((theme) => ({
     },
   },
   display: {
-    height: '35vmin',
+    height: '32vmin',
     borderRadius: '18%',
     padding: '0 5%',
     margin: '3% 0',
